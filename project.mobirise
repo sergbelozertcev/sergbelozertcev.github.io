@@ -34,7 +34,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 14,
+    "uniqCompNum": 16,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -44,8 +44,8 @@
     "siteUrl": "https://sergbelozertcev.github.io",
     "sitemapSwitcherAuto": "on",
     "google-analytics": "",
-    "cookiesAlert": "Мы используем cookies, чтобы дать вам лучшее и узнать вас среди других пользователей сайта. Read our <a href='privacy.html'>cookie policy</a>.",
-    "gdpr": " оставляя персональную информацию на этом сайте Вы принимаете Политику  обработки персональных данных <a href='terms.html'>  и согласшаетесь с пользовательским соглашением и Соглашением на обработку персональных даных  <a href='policy.html'>Privacy Policy</a>.",
+    "cookiesAlert": "Используются cookies, чтобы дать Вам лучшее и узнать Вас среди других пользователей сайта. Read our <a href='privacy.html'>cookie policy</a>.",
+    "gdpr": " оставляя персональную информацию на этом сайте Вы принимаете Политику  обработки персональных данных  и  <file:///Users/admin/Documents/САЙТ/моё/ПОЛИТИКА_В_ОТНОШЕНИИ_ОБРАБОТКИ_ПЕРСОНАЛЬНЫХ_ДАННЫХ_2019_04_23_12_08_17_357.PDF>   <a href='policy.html'> соглашаетесь  на обработку персональных даных. ",
     "sitemapSwitcher": "on"
   },
   "pages": {
