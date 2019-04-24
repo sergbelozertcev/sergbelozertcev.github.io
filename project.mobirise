@@ -39,7 +39,7 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n\n",
+    "robotsText": " User-agent: *\nDisallow: /project.mobirise\nSitemap: https://github.io/sitemap.xml\nHost: https://github.io\n\n\n\n\n",
     "robotsSwitcher": "on",
     "siteUrl": "https://sergbelozertcev.github.io",
     "sitemapSwitcherAuto": "on",
