@@ -49,10 +49,10 @@ body {
 }
 .display-7 {
   font-family: 'Roboto', sans-serif;
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.76rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -659,13 +659,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Roboto', sans-serif;
-  font-size: 1rem;
+  font-size: 1.1rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.76rem;
 }
 .form-control,
 .form-control:focus {
@@ -1899,7 +1899,7 @@ body {
 }
 .cid-ro74K402ZO {
   padding-top: 0px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/-3-1280x853.jpg");
 }
 .cid-ro74K402ZO h3 {
@@ -1921,8 +1921,8 @@ body {
   color: #149dcc;
 }
 .cid-ronnEnKBpG {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/-2-453x340.jpg");
 }
 .cid-ronnEnKBpG p {
