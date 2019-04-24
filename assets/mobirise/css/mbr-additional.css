@@ -1920,63 +1920,17 @@ body {
   font-size: 80px;
   color: #149dcc;
 }
-.cid-ronnEnKBpG {
-  padding-top: 15px;
+.cid-roz7OEvtMn {
+  padding-top: 0px;
   padding-bottom: 0px;
   background-image: url("../../../assets/images/-2-453x340.jpg");
 }
-.cid-ronnEnKBpG p {
-  margin-bottom: 0;
-}
-.cid-ronnEnKBpG .card-box {
-  z-index: 1;
-  position: relative;
-  background-color: rgba(255, 255, 255, 0.9);
-  height: 100%;
-  width: 100%;
-  pointer-events: none;
-}
-.cid-ronnEnKBpG .card-box .card-title {
-  pointer-events: all;
-}
-.cid-ronnEnKBpG .card-box .mbr-text {
-  pointer-events: all;
-}
-.cid-ronnEnKBpG .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-  align-items: stretch;
-  -webkit-align-items: stretch;
-  margin-left: -15px;
-  margin-right: -15px;
-}
-.cid-ronnEnKBpG .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  overflow: hidden;
-}
-.cid-ronnEnKBpG .card-img img {
-  z-index: -1;
-  height: 100%;
-  min-width: 100%;
-  width: auto;
-}
-.cid-ronnEnKBpG .card-wrap {
-  position: relative;
-}
-.cid-ronnEnKBpG .card {
-  padding-bottom: 2rem;
-}
-.cid-ronnEnKBpG H4 {
+.cid-roz7OEvtMn H3 {
   color: #232323;
-  text-align: left;
 }
-.cid-ronnEnKBpG P {
+.cid-roz7OEvtMn .mbr-text,
+.cid-roz7OEvtMn .mbr-section-btn {
   color: #232323;
-  text-align: left;
 }
 .cid-ronbjmANDa {
   padding-top: 15px;
