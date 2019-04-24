@@ -13,15 +13,15 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Roboto",
+        "display1Font": "Rubik",
         "display1Size": "2.8",
-        "display2Font": "Roboto",
+        "display2Font": "Rubik",
         "display2Size": "2",
-        "display5Font": "Roboto",
+        "display5Font": "Rubik",
         "display5Size": "1.6",
-        "display7Font": "Roboto",
-        "display7Size": "1.1",
-        "display4Font": "Roboto",
+        "display7Font": "Rubik",
+        "display7Size": "1.2",
+        "display4Font": "Rubik",
         "display4Size": "1.4",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
@@ -33,13 +33,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
-    "siteFonts": [
-      {
-        "css": "'Roboto', sans-serif",
-        "name": "Roboto",
-        "url": "https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i"
-      }
-    ],
+    "siteFonts": [],
     "uniqCompNum": 14,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
@@ -58,8 +52,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "юридические услуги Севастополь представительство в суде  иски",
-        "meta_descr": "юридические услуги в Севастополе\nюрист\nпредставительство в суде\nиски\nисполнение решений судов\nдогворы\nсопровождение сделок",
+        "title": "юридические услуги в  Севастополе,  опытный юрист, представительство в суде,  иски",
+        "meta_descr": "юридические услуги в Севастополе,\nопытный юрист,\nпредставительство в суде,\nиски,\nисполнение решений судов,\nдоговоры,\nсопровождение сделок",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
